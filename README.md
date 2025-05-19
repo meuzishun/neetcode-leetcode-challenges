@@ -8,3 +8,4 @@
 4. Two Sum II - Amazon Coding Interview Question - Leetcode 167 - Python ([file](two_sum_II.py), [video](https://www.youtube.com/watch?v=cQ1Oz4ckceM&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=4))
 5. House Robber - Leetcode 198 - Python Dynamic Programming ([file](house_robber.py), [video](https://youtu.be/73r3KWiEvyk?si=MBnP3vyDVdMw83UO))
    - this one gave me trouble... must come back to it
+6. Merge Two Sorted Lists - Leetcode 21 - Python ([file](merge_two_sorted_lists.py), [video](https://youtu.be/XIdigk956u0?si=NFQjjGHTNJuWjljT))
