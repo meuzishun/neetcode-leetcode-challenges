@@ -9,3 +9,4 @@
 5. House Robber - Leetcode 198 - Python Dynamic Programming ([file](house_robber.py), [video](https://youtu.be/73r3KWiEvyk?si=MBnP3vyDVdMw83UO))
    - this one gave me trouble... must come back to it
 6. Merge Two Sorted Lists - Leetcode 21 - Python ([file](merge_two_sorted_lists.py), [video](https://youtu.be/XIdigk956u0?si=NFQjjGHTNJuWjljT))
+7. Sliding Window: Best Time to Buy and Sell Stock - Leetcode 121 - Python ([file](best_time_to_buy_and_sell_stock.py), [video](https://www.youtube.com/watch?v=1pkOgXD63yU&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=7))
