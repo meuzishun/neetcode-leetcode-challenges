@@ -11,3 +11,4 @@
 6. Merge Two Sorted Lists - Leetcode 21 - Python ([file](merge_two_sorted_lists.py), [video](https://youtu.be/XIdigk956u0?si=NFQjjGHTNJuWjljT))
 7. Sliding Window: Best Time to Buy and Sell Stock - Leetcode 121 - Python ([file](best_time_to_buy_and_sell_stock.py), [video](https://www.youtube.com/watch?v=1pkOgXD63yU&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=7))
 8. Merge Sorted Array - Leetcode 88 - Python ([file](merge_sorted_array.py), [video](https://www.youtube.com/watch?v=P1Ic85RarKY&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=9&t=1s))
+9. Climbing Stairs - Dynamic Programming - Leetcode 70 - Python ([file](climbing_stairs.py), [video](https://www.youtube.com/watch?v=Y0lT9Fck7qI&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=9))
