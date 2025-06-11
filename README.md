@@ -12,3 +12,4 @@
 7. Sliding Window: Best Time to Buy and Sell Stock - Leetcode 121 - Python ([file](best_time_to_buy_and_sell_stock.py), [video](https://www.youtube.com/watch?v=1pkOgXD63yU&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=7))
 8. Merge Sorted Array - Leetcode 88 - Python ([file](merge_sorted_array.py), [video](https://www.youtube.com/watch?v=P1Ic85RarKY&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=9&t=1s))
 9. Climbing Stairs - Dynamic Programming - Leetcode 70 - Python ([file](climbing_stairs.py), [video](https://www.youtube.com/watch?v=Y0lT9Fck7qI&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=9))
+10. Invert Binary Tree - Depth First Search - Leetcode 226 ([file](reverse_linked_list.py), [video](https://www.youtube.com/watch?v=G0_I-ZF0S38&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=11&t=1s))
