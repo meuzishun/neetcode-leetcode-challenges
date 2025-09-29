@@ -14,3 +14,4 @@
 9. Climbing Stairs - Dynamic Programming - Leetcode 70 - Python ([file](climbing_stairs.py), [video](https://www.youtube.com/watch?v=Y0lT9Fck7qI&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=9))
 10. Invert Binary Tree - Depth First Search - Leetcode 226 ([file](reverse_linked_list.py), [video](https://www.youtube.com/watch?v=G0_I-ZF0S38&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=11&t=1s))
 11. Diameter of a Binary Tree - Leetcode 543 - Python ([file](diameter_of_a_binary_tree.py), [video](https://www.youtube.com/watch?v=bkxqA8Rfv04&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=11))
+12. Valid Parentheses - Stack - Leetcode 20 - Python ([file](valid_parentheses.py), [video](https://youtu.be/WTzjTskDFMg?si=de32TJhdQKkKdZVU))
