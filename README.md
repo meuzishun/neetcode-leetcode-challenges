@@ -15,3 +15,4 @@
 10. Invert Binary Tree - Depth First Search - Leetcode 226 ([file](reverse_linked_list.py), [video](https://www.youtube.com/watch?v=G0_I-ZF0S38&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=11&t=1s))
 11. Diameter of a Binary Tree - Leetcode 543 - Python ([file](diameter_of_a_binary_tree.py), [video](https://www.youtube.com/watch?v=bkxqA8Rfv04&list=PLot-Xpze53lfQmTEztbgdp8ALEoydvnRQ&index=11))
 12. Valid Parentheses - Stack - Leetcode 20 - Python ([file](valid_parentheses.py), [video](https://youtu.be/WTzjTskDFMg?si=de32TJhdQKkKdZVU))
+13. Palindrome Linked List - Leetcode 234 - Python ([file](palindrome_linked_list.py), [video](https://youtu.be/yOzXms1J6Nk?si=TUFZa9DU88DnbET-))
