@@ -17,3 +17,4 @@
 12. Valid Parentheses - Stack - Leetcode 20 - Python ([file](valid_parentheses.py), [video](https://youtu.be/WTzjTskDFMg?si=de32TJhdQKkKdZVU))
 13. Palindrome Linked List - Leetcode 234 - Python ([file](palindrome_linked_list.py), [video](https://youtu.be/yOzXms1J6Nk?si=TUFZa9DU88DnbET-))
 14. Invert Binary Tree - Depth First Search - Leetcode 226 ([file](invert_binary_tree-depth_first_search.py), [video](https://youtu.be/OnSn2XEQ4MY?si=ogvg0ADYVhGNasqx))
+15. Leetcode 1299 - REPLACE ELEMENTS WITH GREATEST ELEMENT ON RIGHT SIDE ([file](), [video](https://youtu.be/ZHjKhUjcsaU?si=OPufbfr_uH6y8L-t))
