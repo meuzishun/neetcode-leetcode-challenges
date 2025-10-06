@@ -18,3 +18,4 @@
 13. Palindrome Linked List - Leetcode 234 - Python ([file](palindrome_linked_list.py), [video](https://youtu.be/yOzXms1J6Nk?si=TUFZa9DU88DnbET-))
 14. Invert Binary Tree - Depth First Search - Leetcode 226 ([file](invert_binary_tree-depth_first_search.py), [video](https://youtu.be/OnSn2XEQ4MY?si=ogvg0ADYVhGNasqx))
 15. Leetcode 1299 - REPLACE ELEMENTS WITH GREATEST ELEMENT ON RIGHT SIDE ([file](), [video](https://youtu.be/ZHjKhUjcsaU?si=OPufbfr_uH6y8L-t))
+16. Merge Two Binary Trees - Leetcode 617 ([file](merge_two_binary_trees.py), [video](https://youtu.be/QHH6rIK3dDQ?si=pGsvht9etD4Z9d2r))
