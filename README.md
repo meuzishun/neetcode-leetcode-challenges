@@ -20,3 +20,4 @@
 15. Leetcode 1299 - REPLACE ELEMENTS WITH GREATEST ELEMENT ON RIGHT SIDE ([file](), [video](https://youtu.be/ZHjKhUjcsaU?si=OPufbfr_uH6y8L-t))
 16. Merge Two Binary Trees - Leetcode 617 ([file](merge_two_binary_trees.py), [video](https://youtu.be/QHH6rIK3dDQ?si=pGsvht9etD4Z9d2r))
 17. Reverse Integer - Bit Manipulation - Leetcode 7 ([file](reverse_integer.py), [video)](https://youtu.be/HAgLH58IgJQ?si=e9O_UoPtD-XyKYnv))
+18. Lowest Common Ancestor of a Binary Search Tree - Leetcode 235 ([file](lowest_common_ancestor.py), [video](https://youtu.be/gs2LMfuOR9k?si=4Lmd0JYLIlYXUKFE))
