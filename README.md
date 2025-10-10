@@ -22,3 +22,4 @@
 17. Reverse Integer - Bit Manipulation - Leetcode 7 ([file](reverse_integer.py), [video)](https://youtu.be/HAgLH58IgJQ?si=e9O_UoPtD-XyKYnv))
 18. Lowest Common Ancestor of a Binary Search Tree - Leetcode 235 ([file](lowest_common_ancestor.py), [video](https://youtu.be/gs2LMfuOR9k?si=4Lmd0JYLIlYXUKFE))
 19. Happy Number - Leetcode 202  ([file](happy_number.py), [video](https://youtu.be/ljz85bxOYJ0?si=SYaHTJOwUd-cX2Fk))
+20. Design Min Stack - Amazon Interview Question - Leetcode 155 ([file](), [video](https://youtu.be/qkLl7nAwDPo?si=vmksVWDJ0AN3e3J8))
