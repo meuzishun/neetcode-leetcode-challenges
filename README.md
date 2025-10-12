@@ -24,3 +24,4 @@
 19. Happy Number - Leetcode 202  ([file](happy_number.py), [video](https://youtu.be/ljz85bxOYJ0?si=SYaHTJOwUd-cX2Fk))
 20. Design Min Stack - Amazon Interview Question - Leetcode 155 ([file](), [video](https://youtu.be/qkLl7nAwDPo?si=vmksVWDJ0AN3e3J8))
 21. Remove Linked List Elements - Leetcode 203 ([file](remove_linked_list_elements.py), [video](https://youtu.be/JI71sxtHTng?si=qfMvcScEM2_Y5JYd))
+22. Search Insert Position - Binary Search - Leetcode 35 ([file](search_insert_position.py), [video](https://youtu.be/K-RYzDZkzCI?si=-RT0oFikIU5ayOKl))
