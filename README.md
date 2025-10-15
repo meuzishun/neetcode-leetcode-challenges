@@ -27,3 +27,4 @@
 22. Search Insert Position - Binary Search - Leetcode 35 ([file](search_insert_position.py), [video](https://youtu.be/K-RYzDZkzCI?si=-RT0oFikIU5ayOKl))
 23. Last Stone Weight - Priority Queue - Leetcode 1046 ([file](last_stone_weight.py), [video](https://youtu.be/B-QCq79-Vfw?si=1Rl1pMEAX-2a-PHL))
 24. Remove Duplicates from Sorted Array - Leetcode 26 ([file](remove_duplicates_from_sorted_array.py), [video](https://youtu.be/DEJAZBq0FDA?si=nSAuIxfz2Lxls2A7))
+25. Ugly Number - Leetcode 263 ([file](ugly_number.py), [video](https://youtu.be/M0Zay1Qr9ws?si=XvlzOPWBDtm0K3Cv))
