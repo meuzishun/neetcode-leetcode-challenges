@@ -33,3 +33,4 @@
 28. Unique Email Addresses - Two Solutions - Leetcode 929 ([file](unique_email_addresses.py), [video](https://youtu.be/TC_xLIWl7qY?si=HLoAioJdoabTLvJn))
 29. Min Cost Climbing Stairs - Dynamic Programming - Leetcode 746 ([file](min_cost_climbing_stairs.py), [video](https://youtu.be/ktmzAZWkEZ0?si=c6bHcAOHazSxVyWY))
 30. Subtree of Another Tree - Leetcode 572 ([file](subtree_of_another_tree.py), [video](https://youtu.be/E36O5SWp-LE?si=AsyB5n4btBmkx-eC))
+31. Valid Palindrome - Leetcode 125 ([file](valid_palindrome.py), [video](https://youtu.be/jJXJ16kPFWg?si=v21YvpXWbfR48-Ve))
