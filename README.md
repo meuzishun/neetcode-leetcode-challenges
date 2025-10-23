@@ -35,3 +35,4 @@
 30. Subtree of Another Tree - Leetcode 572 ([file](subtree_of_another_tree.py), [video](https://youtu.be/E36O5SWp-LE?si=AsyB5n4btBmkx-eC))
 31. Valid Palindrome - Leetcode 125 ([file](valid_palindrome.py), [video](https://youtu.be/jJXJ16kPFWg?si=v21YvpXWbfR48-Ve))
 32. Isomorphic Strings - Leetcode 205 ([file](iosmorphic_strings.py), [video](https://youtu.be/7yF-U1hLEqQ?si=yX9mrQ6bzKZqV-ik))
+33. Number of 1 Bits - Leetcode 191 ([file](number_of_1_bits.py), [video](https://youtu.be/5Km3utixwZs?si=WnboTLT7osZhwRSD))
