@@ -38,3 +38,4 @@
 33. Number of 1 Bits - Leetcode 191 ([file](number_of_1_bits.py), [video](https://youtu.be/5Km3utixwZs?si=WnboTLT7osZhwRSD))
 34. Contains Duplicate - Leetcode 217 ([file](contains_duplicate.py), [video](https://youtu.be/3OamzN90kPg?si=M8bgyGyl9vjNeF4a))
 35. Kth Largest Element in a Stream - Leetcode 703 ([file](kth_largest_element_in_a_stream.py), [video](https://youtu.be/hOjcdrqMoQ8?si=flzJrB6-WTUfHXOF))
+36. Remove Duplicates from Sorted List - Leetcode 83 ([file](remove_duplicates_from_sorted_list.py), [video](https://youtu.be/p10f-VpO4nE?si=QtXdvw2CpHH7fV8a))
