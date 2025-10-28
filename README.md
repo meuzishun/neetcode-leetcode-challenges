@@ -40,3 +40,4 @@
 35. Kth Largest Element in a Stream - Leetcode 703 ([file](kth_largest_element_in_a_stream.py), [video](https://youtu.be/hOjcdrqMoQ8?si=flzJrB6-WTUfHXOF))
 36. Remove Duplicates from Sorted List - Leetcode 83 ([file](remove_duplicates_from_sorted_list.py), [video](https://youtu.be/p10f-VpO4nE?si=QtXdvw2CpHH7fV8a))
 37. Can Place Flowers - Leetcode 605 ([file](can_place_flowers.py), [video](https://youtu.be/ZGxqqjljpUI?si=sXmQaURcJi3GUYIv))
+38. Find the Index of the First Occurrence in a String - Leetcode 28 ([file](find_the_index_of_the_first_occurence_in_a_string.py), [video](https://youtu.be/Gjkhm1gYIMw?si=GB_XCT4BKN9XyHTV))
