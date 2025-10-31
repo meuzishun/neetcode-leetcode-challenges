@@ -43,3 +43,4 @@
 38. Find the Index of the First Occurrence in a String - Leetcode 28 ([file](find_the_index_of_the_first_occurence_in_a_string.py), [video](https://youtu.be/Gjkhm1gYIMw?si=GB_XCT4BKN9XyHTV))
 39. Knuth–Morris–Pratt KMP - Find the Index of the First Occurrence in a String - Leetcode 28 ([file](knuth-morris-pratt_KMP.py), [video](https://youtu.be/JoF0Z7nVSrA?si=Hfg8Lu41RUDQK3N1))
 40. Majority Element - Leetcode 169 ([file](majority_element.py), [video],(https://youtu.be/7pnhv842keE?si=v1m4AHFBfSrPOz_R))
+41. Implement Stack using Queues - Leetcode 225 ([file](implement_stack_using_queues.py), [video](https://youtu.be/rW4vm0-DLYc?si=a5y9YV8KVOIliIrI))
