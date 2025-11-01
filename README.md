@@ -44,3 +44,4 @@
 39. Knuth–Morris–Pratt KMP - Find the Index of the First Occurrence in a String - Leetcode 28 ([file](knuth-morris-pratt_KMP.py), [video](https://youtu.be/JoF0Z7nVSrA?si=Hfg8Lu41RUDQK3N1))
 40. Majority Element - Leetcode 169 ([file](majority_element.py), [video],(https://youtu.be/7pnhv842keE?si=v1m4AHFBfSrPOz_R))
 41. Implement Stack using Queues - Leetcode 225 ([file](implement_stack_using_queues.py), [video](https://youtu.be/rW4vm0-DLYc?si=a5y9YV8KVOIliIrI))
+42. Squares of a Sorted Array - Leetcode 977 ([file](squares_of_a_sorted_array.py), [video](https://youtu.be/FPCZsG_AkUg?si=8QDI_54L31Z1DYer))
