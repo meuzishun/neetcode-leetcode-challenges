@@ -45,7 +45,7 @@
 40. Majority Element - Leetcode 169 ([file](majority_element.py), [video],(https://youtu.be/7pnhv842keE?si=v1m4AHFBfSrPOz_R))
 41. Implement Stack using Queues - Leetcode 225 ([file](implement_stack_using_queues.py), [video](https://youtu.be/rW4vm0-DLYc?si=a5y9YV8KVOIliIrI))
 42. Squares of a Sorted Array - Leetcode 977 ([file](squares_of_a_sorted_array.py), [video](https://youtu.be/FPCZsG_AkUg?si=8QDI_54L31Z1DYer))
-43. ???
+43. Path Sum - Leetcode 112 ([file](path_sum.py), [video](https://youtu.be/LSKQyOz_P8I?si=mz3UhIaiY476oC0O))
 44. Move Zeroes - Leetcode 283 ([file](move_zeros.py), [video](https://youtu.be/aayNRwUN3Do?si=uanKHuoUYtKA-ZdK))
 45. Find Pivot Index - Leetcode 724 ([file](find_pivot_index.py), [video](https://youtu.be/u89i60lYx8U?si=y6hBN5vxzRWz_Bhk))
 46. Single Number - Leetcode 136 ([file](single_number.py), [video](https://youtu.be/qMPX1AOa83k?si=wxvFv3VaDNvYAXpZ))
