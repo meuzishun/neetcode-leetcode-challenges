@@ -49,3 +49,4 @@
 44. Move Zeroes - Leetcode 283 ([file](move_zeros.py), [video](https://youtu.be/aayNRwUN3Do?si=uanKHuoUYtKA-ZdK))
 45. Find Pivot Index - Leetcode 724 ([file](find_pivot_index.py), [video](https://youtu.be/u89i60lYx8U?si=y6hBN5vxzRWz_Bhk))
 46. Single Number - Leetcode 136 ([file](single_number.py), [video](https://youtu.be/qMPX1AOa83k?si=wxvFv3VaDNvYAXpZ))
+47. Intersection of Two Linked Lists - Leetcode 160 ([file](intersection_of_two_linked_lists.py), [video](https://youtu.be/D0X0BONOQhI?si=-H5M8QNPwL0I36D7))
