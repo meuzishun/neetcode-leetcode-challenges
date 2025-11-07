@@ -50,3 +50,4 @@
 45. Find Pivot Index - Leetcode 724 ([file](find_pivot_index.py), [video](https://youtu.be/u89i60lYx8U?si=y6hBN5vxzRWz_Bhk))
 46. Single Number - Leetcode 136 ([file](single_number.py), [video](https://youtu.be/qMPX1AOa83k?si=wxvFv3VaDNvYAXpZ))
 47. Intersection of Two Linked Lists - Leetcode 160 ([file](intersection_of_two_linked_lists.py), [video](https://youtu.be/D0X0BONOQhI?si=-H5M8QNPwL0I36D7))
+48. Find All Numbers Disappeared in an Array - Leetcode 448 ([file](find_all_numbers_disappeared_in_an_array.py), [video](https://youtu.be/8i-f24YFWC4?si=Qn719lySb-vqdw0N))
