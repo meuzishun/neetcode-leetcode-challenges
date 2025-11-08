@@ -51,3 +51,4 @@
 46. Single Number - Leetcode 136 ([file](single_number.py), [video](https://youtu.be/qMPX1AOa83k?si=wxvFv3VaDNvYAXpZ))
 47. Intersection of Two Linked Lists - Leetcode 160 ([file](intersection_of_two_linked_lists.py), [video](https://youtu.be/D0X0BONOQhI?si=-H5M8QNPwL0I36D7))
 48. Find All Numbers Disappeared in an Array - Leetcode 448 ([file](find_all_numbers_disappeared_in_an_array.py), [video](https://youtu.be/8i-f24YFWC4?si=Qn719lySb-vqdw0N))
+49. Maximum Number of Balloons - Leetcode 1189 ([file](maximum_number_of_balloons.py), [video](https://youtu.be/G9xeB2-7PqY?si=iu9sN0XIPAK_q19d))
