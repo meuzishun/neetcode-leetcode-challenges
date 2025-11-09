@@ -52,3 +52,4 @@
 47. Intersection of Two Linked Lists - Leetcode 160 ([file](intersection_of_two_linked_lists.py), [video](https://youtu.be/D0X0BONOQhI?si=-H5M8QNPwL0I36D7))
 48. Find All Numbers Disappeared in an Array - Leetcode 448 ([file](find_all_numbers_disappeared_in_an_array.py), [video](https://youtu.be/8i-f24YFWC4?si=Qn719lySb-vqdw0N))
 49. Maximum Number of Balloons - Leetcode 1189 ([file](maximum_number_of_balloons.py), [video](https://youtu.be/G9xeB2-7PqY?si=iu9sN0XIPAK_q19d))
+50. Guess Number Higher or Lower - Leetcode 374 ([file](guess_number_higher_or_lower.py), [video](https://youtu.be/xW4QsTtaCa4?si=jNDDb2PaXSDThdrP))
