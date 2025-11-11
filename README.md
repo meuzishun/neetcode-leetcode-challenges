@@ -54,3 +54,4 @@
 49. Maximum Number of Balloons - Leetcode 1189 ([file](maximum_number_of_balloons.py), [video](https://youtu.be/G9xeB2-7PqY?si=iu9sN0XIPAK_q19d))
 50. Guess Number Higher or Lower - Leetcode 374 ([file](guess_number_higher_or_lower.py), [video](https://youtu.be/xW4QsTtaCa4?si=jNDDb2PaXSDThdrP))
 51. Arranging Coins - Leetcode 441 ([file](arranging_coins.py), [video](https://youtu.be/5rHz_6s2Buw?si=WHe84Z6hMPCO7MHV))
+52. Valid Perfect Square - Leetcode 367 ([file](valid_perfect_square.py), [video](https://youtu.be/Cg_wWPHJ2Sk?si=8-gvANtgnUManOax))
