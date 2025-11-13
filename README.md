@@ -56,3 +56,4 @@
 51. Arranging Coins - Leetcode 441 ([file](arranging_coins.py), [video](https://youtu.be/5rHz_6s2Buw?si=WHe84Z6hMPCO7MHV))
 52. Valid Perfect Square - Leetcode 367 ([file](valid_perfect_square.py), [video](https://youtu.be/Cg_wWPHJ2Sk?si=8-gvANtgnUManOax))
 53. Word Pattern - Leetcode 290 ([file](word_pattern.py), [video](https://youtu.be/W_akoecmCbM?si=YlVzyAnV6-vUlnHj))
+54. Iterative & Recursive - Binary Tree Inorder Traversal - Leetcode 94 ([file](binary_tree_inorder_traversal.py), [video](Iterative & Recursive - Binary Tree Inorder Traversal - Leetcode 94))
