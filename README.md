@@ -57,3 +57,4 @@
 52. Valid Perfect Square - Leetcode 367 ([file](valid_perfect_square.py), [video](https://youtu.be/Cg_wWPHJ2Sk?si=8-gvANtgnUManOax))
 53. Word Pattern - Leetcode 290 ([file](word_pattern.py), [video](https://youtu.be/W_akoecmCbM?si=YlVzyAnV6-vUlnHj))
 54. Iterative & Recursive - Binary Tree Inorder Traversal - Leetcode 94 ([file](binary_tree_inorder_traversal.py), [video](Iterative & Recursive - Binary Tree Inorder Traversal - Leetcode 94))
+55. Next Greater Element I - Leetcode 496 ([file](next_greater_element_I.py), [video](https://youtu.be/68a1Dc_qVq4?si=G6ZlkfZo5eRu7Ycq))
