@@ -59,3 +59,4 @@
 54. Iterative & Recursive - Binary Tree Inorder Traversal - Leetcode 94 ([file](binary_tree_inorder_traversal.py), [video](Iterative & Recursive - Binary Tree Inorder Traversal - Leetcode 94))
 55. Next Greater Element I - Leetcode 496 ([file](next_greater_element_I.py), [video](https://youtu.be/68a1Dc_qVq4?si=G6ZlkfZo5eRu7Ycq))
 56. Binary Search - Leetcode 704 ([file](binary_search.py), [video](https://youtu.be/s4DPM8ct1pI?si=OgN5xk1OuuAuLkde))
+57. Reverse String - 3 Ways - Leetcode 344 ([file](reverse_string.py), [video](https://youtu.be/_d0T_2Lk2qA?si=OMydcDUrzUbov_ij))
