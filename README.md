@@ -60,3 +60,4 @@
 55. Next Greater Element I - Leetcode 496 ([file](next_greater_element_I.py), [video](https://youtu.be/68a1Dc_qVq4?si=G6ZlkfZo5eRu7Ycq))
 56. Binary Search - Leetcode 704 ([file](binary_search.py), [video](https://youtu.be/s4DPM8ct1pI?si=OgN5xk1OuuAuLkde))
 57. Reverse String - 3 Ways - Leetcode 344 ([file](reverse_string.py), [video](https://youtu.be/_d0T_2Lk2qA?si=OMydcDUrzUbov_ij))
+58. Valid Palindrome II - Leetcode 680 ([file](valid_palindrome_II.py), [video](https://youtu.be/JrxRYBwG6EI?si=CriR9FPD2WkFZPLV))
