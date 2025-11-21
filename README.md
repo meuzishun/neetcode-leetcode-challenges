@@ -21,7 +21,7 @@
 16. Merge Two Binary Trees - Leetcode 617 ([file](merge_two_binary_trees.py), [video](https://youtu.be/QHH6rIK3dDQ?si=pGsvht9etD4Z9d2r))
 17. Reverse Integer - Bit Manipulation - Leetcode 7 ([file](reverse_integer.py), [video)](https://youtu.be/HAgLH58IgJQ?si=e9O_UoPtD-XyKYnv))
 18. Lowest Common Ancestor of a Binary Search Tree - Leetcode 235 ([file](lowest_common_ancestor.py), [video](https://youtu.be/gs2LMfuOR9k?si=4Lmd0JYLIlYXUKFE))
-19. Happy Number - Leetcode 202  ([file](happy_number.py), [video](https://youtu.be/ljz85bxOYJ0?si=SYaHTJOwUd-cX2Fk))
+19. Happy Number - Leetcode 202 ([file](happy_number.py), [video](https://youtu.be/ljz85bxOYJ0?si=SYaHTJOwUd-cX2Fk))
 20. Design Min Stack - Amazon Interview Question - Leetcode 155 ([file](), [video](https://youtu.be/qkLl7nAwDPo?si=vmksVWDJ0AN3e3J8))
 21. Remove Linked List Elements - Leetcode 203 ([file](remove_linked_list_elements.py), [video](https://youtu.be/JI71sxtHTng?si=qfMvcScEM2_Y5JYd))
 22. Search Insert Position - Binary Search - Leetcode 35 ([file](search_insert_position.py), [video](https://youtu.be/K-RYzDZkzCI?si=-RT0oFikIU5ayOKl))
@@ -61,3 +61,4 @@
 56. Binary Search - Leetcode 704 ([file](binary_search.py), [video](https://youtu.be/s4DPM8ct1pI?si=OgN5xk1OuuAuLkde))
 57. Reverse String - 3 Ways - Leetcode 344 ([file](reverse_string.py), [video](https://youtu.be/_d0T_2Lk2qA?si=OMydcDUrzUbov_ij))
 58. Valid Palindrome II - Leetcode 680 ([file](valid_palindrome_II.py), [video](https://youtu.be/JrxRYBwG6EI?si=CriR9FPD2WkFZPLV))
+59. Baseball Game - Leetcode 682 ([file](baseball_game.py), [video](https://youtu.be/Id_tqGdsZQI?si=_y0qUt24A-S8LDXG))
