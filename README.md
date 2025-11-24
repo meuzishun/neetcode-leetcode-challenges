@@ -62,3 +62,4 @@
 57. Reverse String - 3 Ways - Leetcode 344 ([file](reverse_string.py), [video](https://youtu.be/_d0T_2Lk2qA?si=OMydcDUrzUbov_ij))
 58. Valid Palindrome II - Leetcode 680 ([file](valid_palindrome_II.py), [video](https://youtu.be/JrxRYBwG6EI?si=CriR9FPD2WkFZPLV))
 59. Baseball Game - Leetcode 682 ([file](baseball_game.py), [video](https://youtu.be/Id_tqGdsZQI?si=_y0qUt24A-S8LDXG))
+60. Shift 2D Grid - Leetcode ([file](shift_2d_grid.py), [video](https://youtu.be/nJYFh4Dl-as?si=-_oiePwoFt8ZFj3X))
