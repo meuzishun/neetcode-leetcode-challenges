@@ -63,3 +63,4 @@
 58. Valid Palindrome II - Leetcode 680 ([file](valid_palindrome_II.py), [video](https://youtu.be/JrxRYBwG6EI?si=CriR9FPD2WkFZPLV))
 59. Baseball Game - Leetcode 682 ([file](baseball_game.py), [video](https://youtu.be/Id_tqGdsZQI?si=_y0qUt24A-S8LDXG))
 60. Shift 2D Grid - Leetcode ([file](shift_2d_grid.py), [video](https://youtu.be/nJYFh4Dl-as?si=-_oiePwoFt8ZFj3X))
+61. Construct String from Binary Tree - Leetcode 606 ([file](construct_string_from_binary_tree.py), [video](https://youtu.be/b1WpYxnuebQ?si=ETsvgLJybzrrBTgY))
